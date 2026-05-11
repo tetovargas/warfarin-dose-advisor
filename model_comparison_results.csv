@@ -1,0 +1,4 @@
+Model,RMSE_mg,MAE_mg,R2,Within_0.5mg_%,Within_1.0mg_%,Within_2.0mg_%
+Random Forest,0.1610,0.0447,0.9966,97.9,99.4,99.9
+XGBoost,0.1281,0.0944,0.9978,99.8,100.0,100.0
+LSTM (5-wk lookback),0.8560,0.6544,0.9051,46.0,79.7,96.9
