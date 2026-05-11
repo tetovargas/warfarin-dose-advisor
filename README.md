@@ -163,6 +163,7 @@ Clinical Summary
   P045 is well-controlled this week. INR 3.0 sits comfortably in the
   therapeutic window. Continue 11.5 mg/day. Next INR in 4 weeks.
 ```
+<img width="1254" height="1180" alt="Screenshot 2026-05-11 at 1 13 18 AM" src="https://github.com/user-attachments/assets/85d20887-215f-4499-ba5e-08b6083579eb" />
 
 ### Demo 2 — Critical alert: drug interaction + supratherapeutic INR
 
@@ -195,6 +196,7 @@ Management Plan
 ```
 
 Claude Code called **5 tools in sequence** for the second demo: patient history load, fluconazole interaction check, dose prediction, safety guardrail evaluation, and management plan synthesis — all from one natural language sentence.
+<img width="1248" height="1305" alt="Screenshot 2026-05-11 at 1 13 32 AM" src="https://github.com/user-attachments/assets/ff78479b-ce4c-4035-bac8-c48445afc5a6" />
 
 ---
 
